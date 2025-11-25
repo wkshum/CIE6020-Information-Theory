@@ -6,3 +6,5 @@ Python demonstration
 * Lecture 16 - Data compression
 
 * Lecture 21 - Rate distortion code
+
+* Lecture 22 - Empirical distribution
